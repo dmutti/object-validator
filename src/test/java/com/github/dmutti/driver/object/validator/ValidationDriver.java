@@ -14,7 +14,7 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  */
-package com.github.dmutti.driver;
+package com.github.dmutti.driver.object.validator;
 
 import java.math.*;
 import java.util.*;
